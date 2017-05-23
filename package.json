@@ -1,0 +1,26 @@
+{
+  "name": "image_search",
+  "version": "1.0.0",
+  "description": "image search abstraction layer",
+  "main": "server.js",
+  "engines": {
+    "node": "7.8.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "ColeTrammer",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ColeTrammer/image_search.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ColeTrammer/image_search/issues"
+  },
+  "homepage": "https://github.com/ColeTrammer/image_search#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "mongodb": "^2.2.27"
+  }
+}
