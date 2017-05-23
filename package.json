@@ -21,6 +21,7 @@
   "homepage": "https://github.com/ColeTrammer/image_search#readme",
   "dependencies": {
     "express": "^4.15.3",
-    "mongodb": "^2.2.27"
+    "mongodb": "^2.2.27",
+    "node-bing-api": "^3.2.1"
   }
 }
